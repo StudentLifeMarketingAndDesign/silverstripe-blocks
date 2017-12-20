@@ -1,5 +1,5 @@
 {
-    "name": "sheadawson/silverstripe-blocks",
+    "name": "md/silverstripe-blocks",
     "description": "An alternative to the SilverStripe Widgets module.",
     "type": "silverstripe-module",
     "keywords": [
